@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "web": "http://sramana.in/indianrail-db/"
+    }
+  ], 
+  "description": "<http://sramana.in/indianrail-db/>\r\n\r\nData crawled from <http://indianrail.gov.in>, <http://trainenquiry.com>, <http://indiarailinfo.com>\r\nHTML theme from freehtml5templates.com\r\nBanner photo by Steve Mccurry\r\nMy work is dedicated to public domain.\r\nDisclaimer : I don't know about the legality of web scraping. It is your responsibility to sort it out before using the database.", 
+  "license": {
+    "type": "notspecified", 
+    "title": "License not specified"
+  }, 
+  "title": "Indian Railways Database", 
+  "keywords": [
+    "india", 
+    "rail-transport"
+  ], 
+  "name": "indian-railways-database"
+}
